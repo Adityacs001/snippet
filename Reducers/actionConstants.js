@@ -1,0 +1,9 @@
+export const SET_USER = "SET_USER";
+export const GET_USER = "GET_USER";
+
+export const GET_ALL_EMPLOYEE = "GET_ALL_EMPLOYEE";
+export const SET_ALL_EMPLOYEE = "GET_ALL_EMPLOYEE";
+export const GET_EMPLOYEE_BYID = "GET_EMPLOYEE_BYID";
+export const UPDATE_EMPLOYEE_BYID = "UPDATE_EMPLOYEE_BYID";
+
+export const SET_LOADING = "SET_LOADING";
