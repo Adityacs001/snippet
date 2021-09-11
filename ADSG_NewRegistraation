@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T17:40:11.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="xx1n1pRgatX6XKYmn4mV" version="15.1.0" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-09-11T17:44:45.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="75fF0fhVo_FH9rcGuSiY" version="15.1.0" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="ADSG Assessment New Registration">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -83,6 +83,107 @@
         </mxCell>
         <mxCell id="kBt1tn03D3HjJm9re_p6-6" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="340" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="359DuPUx2mwpHIRPAl3V" name="ADSG Assessment for existing jobseeker">
+    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="y_kLIRJqT7EnI9sJsice-0" />
+        <mxCell id="y_kLIRJqT7EnI9sJsice-1" parent="y_kLIRJqT7EnI9sJsice-0" />
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-1" target="Cc6tScZFqF2AG9qkwF1x-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-1" value="Jobseeker Logs in Tamm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="155" y="50" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-2" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-5" target="Cc6tScZFqF2AG9qkwF1x-10">
+          <mxGeometry x="-0.0357" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="252.5" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-5" target="Cc6tScZFqF2AG9qkwF1x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-4" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cc6tScZFqF2AG9qkwF1x-3">
+          <mxGeometry x="-0.3842" y="-3" relative="1" as="geometry">
+            <mxPoint x="35" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-5" value="Is CV Complete &lt;br&gt;with required &lt;br&gt;ADSG field ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="167" y="320" width="148" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-7" target="Cc6tScZFqF2AG9qkwF1x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-7" value="Push notification message to jobseeker for enrollement as email and in TAMM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="177" y="690" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-20" target="Cc6tScZFqF2AG9qkwF1x-13">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="480" y="535" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="492" y="578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-10" target="Cc6tScZFqF2AG9qkwF1x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-10" value="Call ADSG API to provide Jobseeker details for&lt;br&gt;&amp;nbsp;Assessment&amp;nbsp; enrollement" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="413.76" y="130" width="156.24" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-13" target="Cc6tScZFqF2AG9qkwF1x-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-13" target="Cc6tScZFqF2AG9qkwF1x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-13" value="Mark Jobseeker profile in HRA Ops that ADSG assessment enrolled successfully." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="187" y="543" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-15" target="Cc6tScZFqF2AG9qkwF1x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-15" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="20" y="45" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-17" target="Cc6tScZFqF2AG9qkwF1x-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-17" value="Read ADSG enrollment status for jobseeker" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="419.13" y="262" width="143.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-20" target="Cc6tScZFqF2AG9qkwF1x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cc6tScZFqF2AG9qkwF1x-18">
+          <mxGeometry x="-0.8399" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-20" value="Is ADSG &lt;br&gt;enrollment &lt;br&gt;Success ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="431.88" y="430" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-21" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="60" y="460" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-23" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-22" target="Cc6tScZFqF2AG9qkwF1x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="y_kLIRJqT7EnI9sJsice-1" source="Cc6tScZFqF2AG9qkwF1x-22" target="Cc6tScZFqF2AG9qkwF1x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-25" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cc6tScZFqF2AG9qkwF1x-24">
+          <mxGeometry x="-0.7618" y="1" relative="1" as="geometry">
+            <mxPoint x="37" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cc6tScZFqF2AG9qkwF1x-22" value="Is ADSG&lt;br&gt;&amp;nbsp;enrollment done &lt;br&gt;for jobseeker ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="y_kLIRJqT7EnI9sJsice-1">
+          <mxGeometry x="170" y="160" width="142" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
