@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T17:11:44.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="W7SkeLpVdrX-m2QkMHP8" version="15.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T17:18:19.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="mR5NC8qVQCxEpwaFRsvc" version="15.4.2" type="github">
   <diagram id="SI5E_4VV0KX8oZEEjQrd" name="Page-1">
     <mxGraphModel dx="1278" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,8 +82,11 @@
         <mxCell id="9Yx8St666YuDexkFNH8B-75" value="MOHRE Screen" style="html=1;shape=mxgraph.infographic.ribbonRolled;dx=185;dy=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="692.5" y="90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9Yx8St666YuDexkFNH8B-76" value="MOHRE- HRA System Integration" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="10" width="620" height="40" as="geometry" />
+        <mxCell id="9Yx8St666YuDexkFNH8B-76" value="&lt;font style=&quot;font-size: 18px&quot;&gt;MOHRE- HRA System (Form + API)&amp;nbsp; Integration&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Proposal is to make 1 of screen from either system as Main and other to read thrii API&lt;/font&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20.3;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="10" width="620" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9Yx8St666YuDexkFNH8B-77" value="&lt;span style=&quot;font-size: 18px&quot;&gt;MOHRE - HRA Integration Scope Analysis Metrics&lt;/span&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20.3;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="-350" width="557.5" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
