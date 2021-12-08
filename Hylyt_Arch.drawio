@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T11:39:05.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="wmjavsJvKorlmeOok-4D" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T11:40:15.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="1eRnVM-fZiNbNe5RzXL-" version="15.5.5" type="github">
   <diagram id="8g3x2ywwV2v4L2gm6aw1" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="a-9gZGsGkf5GocT-nxW_-53" value="&lt;b&gt;Backoffice Admin CRM Dashboard&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730.25" y="147.45" width="110" height="32.55" as="geometry" />
+        </mxCell>
+        <mxCell id="a-9gZGsGkf5GocT-nxW_-54" value="&lt;b&gt;Data Connector&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="382.2" y="250" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
