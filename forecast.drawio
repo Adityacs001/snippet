@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T07:26:18.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="16.0.0" etag="uUSWS8A4OolEe-DtrVrT" type="github"><diagram id="PRxmrCBXnUBW7XRWhcjo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-21T08:37:56.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="qZD_lejliMQOT7b7A1QB" version="16.0.0" type="github">
+  <diagram id="PRxmrCBXnUBW7XRWhcjo" name="Page-1">
+    <mxGraphModel dx="2066" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9LqdM0wit8PEot4bu2QV-1" value="Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-2" value="Account AR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="140" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Job Title in English&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Job Title in Arabic&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="110" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Link Title with ESCO Title&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Identified skill based on jobtite / esco jobtitle&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-10" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Accounts&lt;/font&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Bachelor - Finance - Accounting&lt;/font&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159" y="430" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-15" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Labor Forecast Data Entry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="40" width="501" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-17" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Finance&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-31" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Analysing&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="340" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-32" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.remove;fillColor=#0080f0;strokeColor=#ffffff;sketch=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="349" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-35" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.remove;fillColor=#0080f0;strokeColor=#ffffff;sketch=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="349" y="349" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-36" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.remove;fillColor=#0080f0;strokeColor=#ffffff;sketch=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="499" y="349" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-40" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Identified education based on Education&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159" y="390" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-41" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Location&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-42" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-43" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Gender&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-44" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-45" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Total Demand&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-46" value="2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-47" value="2023" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-48" value="2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-49" value="2025" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9LqdM0wit8PEot4bu2QV-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/august/PNG/Save.png;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="170" y="710" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
