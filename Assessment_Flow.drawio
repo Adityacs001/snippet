@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T07:14:12.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.4" etag="uTIGyD_ktIKKEbCxSkK6" type="github"><diagram id="iAsPNLQarzUy0nh-E12Q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-16T07:29:41.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LKAfKuldVlvwEvfpVDbQ" version="16.2.4" type="github">
+  <diagram id="iAsPNLQarzUy0nh-E12Q" name="Page-1">
+    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="90" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Jobseeker&amp;nbsp; Successfully Login" tooltip="dfdfdf" id="MrdrnFFlkgiY7OF6-Ldu-2">
+          <mxCell style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MrdrnFFlkgiY7OF6-Ldu-4">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="150" y="79.5" as="sourcePoint" />
+              <mxPoint x="430" y="80" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-4" value="Redirecting on Dashboard/Landing page." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MrdrnFFlkgiY7OF6-Ldu-5" target="MrdrnFFlkgiY7OF6-Ldu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-5" value="Call HRA getDashboard API to get jobseeker details" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="MrdrnFFlkgiY7OF6-Ldu-18" target="MrdrnFFlkgiY7OF6-Ldu-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="MrdrnFFlkgiY7OF6-Ldu-15" target="MrdrnFFlkgiY7OF6-Ldu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-6" value="Check &quot;Refreshstatus&quot; attribute ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="130" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MrdrnFFlkgiY7OF6-Ldu-8" target="MrdrnFFlkgiY7OF6-Ldu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-8" value="Show Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrdrnFFlkgiY7OF6-Ldu-9" target="MrdrnFFlkgiY7OF6-Ldu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-9" value="Show Assessment form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-12" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="410" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-15" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="MrdrnFFlkgiY7OF6-Ldu-6" target="MrdrnFFlkgiY7OF6-Ldu-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="250" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="260" />
+              <mxPoint x="360" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-18" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MrdrnFFlkgiY7OF6-Ldu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="MrdrnFFlkgiY7OF6-Ldu-6" target="MrdrnFFlkgiY7OF6-Ldu-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="190" as="sourcePoint" />
+            <mxPoint x="200" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
