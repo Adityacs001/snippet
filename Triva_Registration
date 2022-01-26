@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T03:37:40.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZRA5pmLF8TpYW_X9eMAa" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T03:40:16.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lYpsRd-KFAExoFVeHsRK" version="16.2.4" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
-    <mxGraphModel dx="1935" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2097" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="302.5" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rX01KyGm1Qf1U-KcWeF4-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-310" width="690" height="1040" as="geometry" />
+          <mxGeometry x="790" y="-310" width="690" height="810" as="geometry" />
         </mxCell>
         <mxCell id="rX01KyGm1Qf1U-KcWeF4-6" value="User Creation" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-5">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -69,6 +69,21 @@
         </mxCell>
         <mxCell id="rX01KyGm1Qf1U-KcWeF4-18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Referal Code&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-5">
           <mxGeometry x="210" y="550" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rX01KyGm1Qf1U-KcWeF4-19" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="690" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="rX01KyGm1Qf1U-KcWeF4-20" value="Registration" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-19">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rX01KyGm1Qf1U-KcWeF4-21" value="https://www.triva.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-19">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rX01KyGm1Qf1U-KcWeF4-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-19">
+          <mxGeometry y="110" width="690" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="rX01KyGm1Qf1U-KcWeF4-28" value="&lt;h1&gt;Dashboard&lt;/h1&gt;&lt;p&gt;New Customer Registration screen to request user to enter his/her email and mobile number to get Activation email to complete full registration.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-19">
+          <mxGeometry x="190" y="120" width="380" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
