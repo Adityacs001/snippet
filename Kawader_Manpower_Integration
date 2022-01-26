@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T19:41:32.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.4.7" etag="VQX_t9ktYfh90zq6LHam" type="github"><diagram id="6S-Efmr6mUJz_4wmwVf1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-26T19:44:46.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="R1YbTnCzFj4ZTMgD7VfT" version="16.4.7" type="github">
+  <diagram id="6S-Efmr6mUJz_4wmwVf1" name="Page-1">
+    <mxGraphModel dx="1258" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yy4Sgpr9W9sZd2tqx_ck-2" value="Employer and Kawader Integration" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="720" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy4Sgpr9W9sZd2tqx_ck-3" value="Employer Portal" style="swimlane;startSize=20;" vertex="1" parent="Yy4Sgpr9W9sZd2tqx_ck-2">
+          <mxGeometry x="20" width="200" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy4Sgpr9W9sZd2tqx_ck-4" value="Kawader" style="swimlane;startSize=20;" vertex="1" parent="Yy4Sgpr9W9sZd2tqx_ck-2">
+          <mxGeometry x="220" width="270" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy4Sgpr9W9sZd2tqx_ck-5" value="Tarasol" style="swimlane;startSize=20;" vertex="1" parent="Yy4Sgpr9W9sZd2tqx_ck-2">
+          <mxGeometry x="490" width="230" height="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
