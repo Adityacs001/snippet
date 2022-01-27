@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T13:54:29.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yYT8TF_4w43eF6o37m2t" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T13:55:13.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="C3Dh07qh3ASpdUESiqXg" version="16.4.7" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
     <mxGraphModel dx="1258" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="6Xm53kU04oqy3b9dKunh-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Email Address&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-5">
           <mxGeometry x="195" y="410" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Xm53kU04oqy3b9dKunh-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/camera-digital-snap-photo-128.png;fontSize=18;" vertex="1" parent="rX01KyGm1Qf1U-KcWeF4-5">
+          <mxGeometry x="71" y="252" width="88" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rX01KyGm1Qf1U-KcWeF4-32" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="50" y="620" width="690" height="700" as="geometry" />
