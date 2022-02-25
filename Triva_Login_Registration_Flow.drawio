@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T13:32:08.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FKiSHQvIvSnKsbMJiUnS" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T13:33:04.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0txeLdCIPzvSry5eFVSA" version="16.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1398" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="10UJsyIhFDWeAJKAxH0l-54" value="User&lt;br&gt;found based on email /social &lt;br&gt;media ID?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="812.5" y="670" width="145" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-63" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Login / Registration Flow&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="10" width="670" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
