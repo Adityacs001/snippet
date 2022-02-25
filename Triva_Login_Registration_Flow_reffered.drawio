@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" modified="2022-02-25T13:46:35.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="oaIdKPlRmjxUhOamTI4k" version="16.5.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1258" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="zOy3l532VMqXmCqW-YtN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=36;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="User Clicks on Referral Link" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="115" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="10UJsyIhFDWeAJKAxH0l-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-25" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10UJsyIhFDWeAJKAxH0l-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.425" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Is App &lt;br&gt;installed ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="210" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-0" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-0" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="105" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-2" target="10UJsyIhFDWeAJKAxH0l-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-1" value="Show OTP verification screen with referral code&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="350" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-3" target="10UJsyIhFDWeAJKAxH0l-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-3" value="Redirects to enter code Screen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="545" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-5" target="10UJsyIhFDWeAJKAxH0l-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-35" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10UJsyIhFDWeAJKAxH0l-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.1022" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=36;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-5" target="zOy3l532VMqXmCqW-YtN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=36;" vertex="1" connectable="0" parent="zOy3l532VMqXmCqW-YtN-4">
+          <mxGeometry x="-0.44" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-5" value="Is OTP&lt;br&gt;&amp;nbsp;received ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="630" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-6" target="10UJsyIhFDWeAJKAxH0l-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-6" value="Enters OTP and submits" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="750" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-7" target="10UJsyIhFDWeAJKAxH0l-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-36" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="10UJsyIhFDWeAJKAxH0l-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.1238" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-7" value="Is OTP verification success ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="870" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-8" target="10UJsyIhFDWeAJKAxH0l-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-8" value="Redirects to Profile registration screen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="775" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-9" target="10UJsyIhFDWeAJKAxH0l-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-9" value="Fill in profile page and submits" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="895" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-10" target="10UJsyIhFDWeAJKAxH0l-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-10" value="Is profile &lt;br&gt;submission &lt;br&gt;success ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="995" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-11" target="10UJsyIhFDWeAJKAxH0l-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-11" value="Logged In and view Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="1085" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-22" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="895" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-63" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Referral Login / Registration Flow&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="40" width="670" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-2" value="Enters Mobile number to get OTP&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10UJsyIhFDWeAJKAxH0l-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="10UJsyIhFDWeAJKAxH0l-1" target="10UJsyIhFDWeAJKAxH0l-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="405" as="sourcePoint" />
+            <mxPoint x="120" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zOy3l532VMqXmCqW-YtN-3" target="zOy3l532VMqXmCqW-YtN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="zOy3l532VMqXmCqW-YtN-12">
+          <mxGeometry x="-0.2727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zOy3l532VMqXmCqW-YtN-3" target="10UJsyIhFDWeAJKAxH0l-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="670" />
+              <mxPoint x="760" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-15" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="zOy3l532VMqXmCqW-YtN-14">
+          <mxGeometry x="-0.8309" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-3" value="Is user goes cancel ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="620" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zOy3l532VMqXmCqW-YtN-6" target="10UJsyIhFDWeAJKAxH0l-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zOy3l532VMqXmCqW-YtN-6" value="Redirect to login page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="535" y="790" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
