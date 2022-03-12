@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T06:01:26.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Z8I7PntGfkGsg0yUDAJE" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T06:30:06.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UX24nNAXcqoPWuWDzAhk" version="17.1.1" type="github">
   <diagram id="q9lR3YfNL49On_7W1kd5" name="Page-1">
     <mxGraphModel dx="1258" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Eknh5964y688mAtiyr7k-1" value="Welcome Screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="125" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="125" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Eknh5964y688mAtiyr7k-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Eknh5964y688mAtiyr7k-5" target="Eknh5964y688mAtiyr7k-6">
           <mxGeometry relative="1" as="geometry" />
@@ -49,13 +49,16 @@
           <mxGeometry x="292.5" y="190" width="112.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Eknh5964y688mAtiyr7k-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Every New Registration must verify Mobile&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="387.5" height="30" as="geometry" />
+          <mxGeometry x="50" y="20" width="387.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Eknh5964y688mAtiyr7k-21" value="Login Screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Eknh5964y688mAtiyr7k-26" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Hide following from Profile setup&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1) Username hide it. For API set username = email.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2) Hide Mobile Number. Its already verified so pass same.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;For API set mobilenumber = Verified from OT Screen&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3) Hide Social Media icon in bottom footer.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="485" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Eknh5964y688mAtiyr7k-27" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Hide following from Login&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1) Hide &quot;Get Username&quot; as email address.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2) Edit Username placeholder to Email address only&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="560" y="30" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
