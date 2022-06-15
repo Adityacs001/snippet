@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T05:53:26.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QMdPudrlk7UHYuXtKez-" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T05:53:41.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="S6_GVvCFuo1Sbnp6x095" version="19.0.0" type="github">
   <diagram id="uhPX9VlDIiUhLWujF77s" name="Page-1">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Add_128x128.png" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-12">
-          <mxGeometry x="360" y="48" width="65.5" height="52" as="geometry" />
+          <mxGeometry x="362" y="48" width="65.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-13" value="ADDA API Gateway" style="swimlane;startSize=40;horizontal=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-10">
           <mxGeometry y="362" width="820" height="190.00000000000006" as="geometry" />
