@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T05:53:41.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="S6_GVvCFuo1Sbnp6x095" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T05:59:28.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HT1Q8KOu7_oNOvpMTm7t" version="19.0.0" type="github">
   <diagram id="uhPX9VlDIiUhLWujF77s" name="Page-1">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X3paTbVnX3Us_xE9zSmF-10" value="Manpower Data Connectivity" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="170" width="820" height="552" as="geometry" />
+          <mxGeometry x="30" y="60" width="820" height="570" as="geometry" />
         </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-11" value="Takafoo on &#xa;Etisalat One Cloud" style="swimlane;startSize=40;horizontal=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-10">
           <mxGeometry y="20" width="820" height="202" as="geometry" />
@@ -31,11 +31,14 @@
         <mxCell id="X3paTbVnX3Us_xE9zSmF-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58534;gradientColor=none;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-11">
           <mxGeometry x="365.5" y="142" width="59" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="X3paTbVnX3Us_xE9zSmF-47" value="Scheduler running every daily evening to sycn data to HRA DWH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-11">
+          <mxGeometry x="440" y="120" width="230" height="52" as="geometry" />
+        </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-12" value="HRA DWH" style="swimlane;startSize=40;horizontal=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-10">
-          <mxGeometry y="222" width="820" height="140" as="geometry" />
+          <mxGeometry y="222" width="820" height="158" as="geometry" />
         </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-7" value="ADEO DEP" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.cloud;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-12">
-          <mxGeometry x="580" y="44" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="44" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="X3paTbVnX3Us_xE9zSmF-12" source="X3paTbVnX3Us_xE9zSmF-6" target="X3paTbVnX3Us_xE9zSmF-7">
           <mxGeometry relative="1" as="geometry" />
@@ -43,8 +46,20 @@
         <mxCell id="X3paTbVnX3Us_xE9zSmF-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Add_128x128.png" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-12">
           <mxGeometry x="362" y="48" width="65.5" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="X3paTbVnX3Us_xE9zSmF-46" value="1 day old copy of data to be maintained in HRA DWH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-12">
+          <mxGeometry x="220" y="55" width="142" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="X3paTbVnX3Us_xE9zSmF-48" value="DEP Project to share Manpower data and report on G42 one cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-12">
+          <mxGeometry x="670" y="8" width="142" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="X3paTbVnX3Us_xE9zSmF-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="X3paTbVnX3Us_xE9zSmF-10" source="X3paTbVnX3Us_xE9zSmF-5" target="X3paTbVnX3Us_xE9zSmF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X3paTbVnX3Us_xE9zSmF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="X3paTbVnX3Us_xE9zSmF-10" source="X3paTbVnX3Us_xE9zSmF-6" target="X3paTbVnX3Us_xE9zSmF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-13" value="ADDA API Gateway" style="swimlane;startSize=40;horizontal=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-10">
-          <mxGeometry y="362" width="820" height="190.00000000000006" as="geometry" />
+          <mxGeometry y="380" width="820" height="190.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="X3paTbVnX3Us_xE9zSmF-13" source="X3paTbVnX3Us_xE9zSmF-17" target="X3paTbVnX3Us_xE9zSmF-18">
           <mxGeometry relative="1" as="geometry" />
@@ -94,15 +109,12 @@
         <mxCell id="X3paTbVnX3Us_xE9zSmF-43" value="ADGE/ADGC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-13">
           <mxGeometry x="710" y="140.68000000000006" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X3paTbVnX3Us_xE9zSmF-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="X3paTbVnX3Us_xE9zSmF-10" source="X3paTbVnX3Us_xE9zSmF-5" target="X3paTbVnX3Us_xE9zSmF-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X3paTbVnX3Us_xE9zSmF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="X3paTbVnX3Us_xE9zSmF-10" source="X3paTbVnX3Us_xE9zSmF-6" target="X3paTbVnX3Us_xE9zSmF-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X3paTbVnX3Us_xE9zSmF-49" value="HRA API gate way connected to ADDA API gateway to share jobseeker/ERP data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X3paTbVnX3Us_xE9zSmF-13">
+          <mxGeometry x="160" width="222" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3paTbVnX3Us_xE9zSmF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X3paTbVnX3Us_xE9zSmF-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="620" as="targetPoint" />
+            <mxPoint x="470" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
