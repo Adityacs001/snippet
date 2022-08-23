@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T04:49:03.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1JzUSj9hsiTNy4gsMEsJ" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-23T04:52:32.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KkJ0l_K8wk1FnU839N2v" version="20.0.4" type="github" pages="3">
   <diagram id="p3bcoX_zDifybAXSMWaD" name="All Persona">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -168,142 +168,47 @@
         <mxCell id="ry02r2a6CAOk2bOFhwHt-4" value="List of all available Job opportunities." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="85" width="147.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-6" target="ry02r2a6CAOk2bOFhwHt-11">
+        <mxCell id="LycvekWKNzJkErNNruy0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-6" target="LycvekWKNzJkErNNruy0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-6" value="Customer Clicks on one of job title he/she want to &quot;Apply&quot;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="85" width="160" height="60" as="geometry" />
+          <mxGeometry x="590" y="85" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-11" target="ry02r2a6CAOk2bOFhwHt-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="295" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-8" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ry02r2a6CAOk2bOFhwHt-7">
-          <mxGeometry x="-0.3333" y="3" relative="1" as="geometry">
-            <mxPoint x="23" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-11" target="ry02r2a6CAOk2bOFhwHt-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ry02r2a6CAOk2bOFhwHt-9">
-          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-11" value="Is Jobseeker is &lt;br&gt;&quot;Persona 1&quot;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="240" width="130" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-15" target="ry02r2a6CAOk2bOFhwHt-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ry02r2a6CAOk2bOFhwHt-12">
-          <mxGeometry x="-0.2278" y="3" relative="1" as="geometry">
-            <mxPoint x="26" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-15" target="ry02r2a6CAOk2bOFhwHt-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-15" value="Is Jobseeker new &quot;Registration&quot;?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="210" width="137.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-17" target="ry02r2a6CAOk2bOFhwHt-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-17" value="Show &quot;CV Builder&quot; Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-19" target="ry02r2a6CAOk2bOFhwHt-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-19" value="Show Job details Page ?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="425" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-25" target="ry02r2a6CAOk2bOFhwHt-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ry02r2a6CAOk2bOFhwHt-20">
-          <mxGeometry x="-0.2338" relative="1" as="geometry">
-            <mxPoint x="36" y="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-25" target="ry02r2a6CAOk2bOFhwHt-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ry02r2a6CAOk2bOFhwHt-22">
-          <mxGeometry x="-0.0208" y="1" relative="1" as="geometry">
-            <mxPoint x="-175" y="-149" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ry02r2a6CAOk2bOFhwHt-22">
-          <mxGeometry x="-0.5587" y="3" relative="1" as="geometry">
-            <mxPoint x="-48" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-25" value="Is Assessment Complete ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="430" width="137.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-27" target="ry02r2a6CAOk2bOFhwHt-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-27" value="Show button to &quot;Apply&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-29" target="ry02r2a6CAOk2bOFhwHt-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-29" value="Show button to &quot;Assessment&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-31" target="ry02r2a6CAOk2bOFhwHt-32">
+        <mxCell id="LycvekWKNzJkErNNruy0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-31" target="ry02r2a6CAOk2bOFhwHt-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-31" value="Show service Ineligible Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="585" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="257.5" y="240" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-32" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="690" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="225" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-34" target="ry02r2a6CAOk2bOFhwHt-36">
+        <mxCell id="LycvekWKNzJkErNNruy0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.947;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="LycvekWKNzJkErNNruy0-3" target="ry02r2a6CAOk2bOFhwHt-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-34" value="Click on Assessment to open Assessment Window" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450" y="730" width="180" height="70" as="geometry" />
+        <mxCell id="LycvekWKNzJkErNNruy0-3" value="Login Using UAE Pass" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="390" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;exitX=1.021;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-36" target="ry02r2a6CAOk2bOFhwHt-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="840" y="985" />
-              <mxPoint x="840" y="750" />
-            </Array>
+        <mxCell id="LycvekWKNzJkErNNruy0-6" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="LycvekWKNzJkErNNruy0-4" target="LycvekWKNzJkErNNruy0-3">
+          <mxGeometry x="-0.4286" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-36" value="Open ADSG Assessment page to complete assessment &amp;amp; Visit Apply page again" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="335" y="940" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-38" target="ry02r2a6CAOk2bOFhwHt-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="850" />
-              <mxPoint x="750" y="850" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-38" value="Application is submitted and show Success message." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="770" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-40" target="ry02r2a6CAOk2bOFhwHt-25">
+        <mxCell id="LycvekWKNzJkErNNruy0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="LycvekWKNzJkErNNruy0-4" target="ry02r2a6CAOk2bOFhwHt-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ry02r2a6CAOk2bOFhwHt-40" value="Complete CV Profile and proceed to Assessment" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="10" y="440" width="140" height="60" as="geometry" />
+        <mxCell id="LycvekWKNzJkErNNruy0-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LycvekWKNzJkErNNruy0-8">
+          <mxGeometry x="-0.3275" y="5" relative="1" as="geometry">
+            <mxPoint x="18" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LycvekWKNzJkErNNruy0-4" value="Is already Loggedin ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="1LT0_sSiFqOMiPoDbb7P" name="Page-3">
+  <diagram id="1LT0_sSiFqOMiPoDbb7P" name="Persona1">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
