@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T04:52:32.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KkJ0l_K8wk1FnU839N2v" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-23T04:54:16.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CGrD_D2pHLnruseJekRU" version="20.0.4" type="github" pages="3">
   <diagram id="p3bcoX_zDifybAXSMWaD" name="All Persona">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,34 +160,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-2" value="Customer Visits Journey page and clicks &quot;start&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="180" height="90" as="geometry" />
+          <mxGeometry x="20" y="260" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-4" target="ry02r2a6CAOk2bOFhwHt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-4" value="List of all available Job opportunities." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="85" width="147.5" height="60" as="geometry" />
+          <mxGeometry x="290" y="275" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycvekWKNzJkErNNruy0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-6" target="LycvekWKNzJkErNNruy0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-6" value="Customer Clicks on one of job title he/she want to &quot;Apply&quot;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="85" width="160" height="60" as="geometry" />
+          <mxGeometry x="590" y="275" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycvekWKNzJkErNNruy0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="ry02r2a6CAOk2bOFhwHt-31" target="ry02r2a6CAOk2bOFhwHt-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-31" value="Show service Ineligible Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="240" width="180" height="50" as="geometry" />
+          <mxGeometry x="257.5" y="430" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ry02r2a6CAOk2bOFhwHt-32" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="225" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="415" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LycvekWKNzJkErNNruy0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.947;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="LycvekWKNzJkErNNruy0-3" target="ry02r2a6CAOk2bOFhwHt-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LycvekWKNzJkErNNruy0-3" value="Login Using UAE Pass" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="590" y="390" width="160" height="50" as="geometry" />
+          <mxGeometry x="590" y="580" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LycvekWKNzJkErNNruy0-6" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="LycvekWKNzJkErNNruy0-4" target="LycvekWKNzJkErNNruy0-3">
           <mxGeometry x="-0.4286" relative="1" as="geometry">
@@ -203,7 +203,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LycvekWKNzJkErNNruy0-4" value="Is already Loggedin ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="120" height="110" as="geometry" />
+          <mxGeometry x="610" y="400" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LycvekWKNzJkErNNruy0-12" value="&lt;h1&gt;Person 2 /3 / 4&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Person 2 - Employed UAE Nationals&lt;/li&gt;&lt;li&gt;Person 3 - Unemployed Expats&lt;/li&gt;&lt;li&gt;Person 4 - Employed Expats&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="590" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
