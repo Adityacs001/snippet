@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T04:45:46.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="E0BZ5ZtM2p5Xt75CAxGu" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T04:47:16.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FNPFA4cWg2C2XBh-P2tS" version="20.0.4" type="github">
   <diagram id="p3bcoX_zDifybAXSMWaD" name="Page-1">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kV20wIMNOrEjRqIksJpt-2" value="List of all available Job opportunities." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="80" width="160" height="70" as="geometry" />
+          <mxGeometry x="290" y="85" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kV20wIMNOrEjRqIksJpt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="kV20wIMNOrEjRqIksJpt-3" target="kV20wIMNOrEjRqIksJpt-4">
           <mxGeometry relative="1" as="geometry" />
