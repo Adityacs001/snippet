@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T05:09:28.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="S-uXZQ5ntfbIm1J3cHpO" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-23T05:10:01.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AZx1hFfgRTDXGdLu7kyz" version="20.0.4" type="github" pages="3">
   <diagram id="p3bcoX_zDifybAXSMWaD" name="All Persona">
     <mxGraphModel dx="1406" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="kV20wIMNOrEjRqIksJpt-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="kV20wIMNOrEjRqIksJpt-23">
           <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-19" as="offset" />
+            <mxPoint x="-12" y="-34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kV20wIMNOrEjRqIksJpt-4" value="Is Jobseeker is &lt;br&gt;&quot;Persona 1&quot;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
