@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T07:17:41.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WsAnxl2JAAUuj3Z_UPe1" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T07:19:36.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Gz96IEbhyuvyQM9a9Zlb" version="20.2.7" type="github">
   <diagram id="l2HiHY0zZlGhiQ7wQpw0" name="Page-1">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e0R2_u25rU9z0fg3Qo4R-7" value="Course taken on LLLP by jobseeker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="480" width="210" height="60" as="geometry" />
+          <mxGeometry x="475" y="460" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e0R2_u25rU9z0fg3Qo4R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e0R2_u25rU9z0fg3Qo4R-8" target="e0R2_u25rU9z0fg3Qo4R-11">
           <mxGeometry relative="1" as="geometry" />
@@ -40,14 +40,14 @@
         <mxCell id="e0R2_u25rU9z0fg3Qo4R-9" value="API Needed from MAx360 to Push assessment status for given emriatesid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="420" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0R2_u25rU9z0fg3Qo4R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e0R2_u25rU9z0fg3Qo4R-10" target="e0R2_u25rU9z0fg3Qo4R-1">
+        <mxCell id="e0R2_u25rU9z0fg3Qo4R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e0R2_u25rU9z0fg3Qo4R-10" target="e0R2_u25rU9z0fg3Qo4R-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e0R2_u25rU9z0fg3Qo4R-10" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e0R2_u25rU9z0fg3Qo4R-11" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="175" y="640" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
