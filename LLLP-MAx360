@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T07:20:31.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WgBQSp6VJFxgtERv_M1h" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T07:21:12.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WDMaNkKjfVkQ15qTp0G2" version="20.2.7" type="github">
   <diagram id="l2HiHY0zZlGhiQ7wQpw0" name="Page-1">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="e0R2_u25rU9z0fg3Qo4R-2" value="API Needed from LLLP to fetch details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0R2_u25rU9z0fg3Qo4R-3" value="&lt;h1&gt;Pre-Requisits&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;LLLP to prepare course Catalogue&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="10" width="750" height="120" as="geometry" />
+        <mxCell id="e0R2_u25rU9z0fg3Qo4R-3" value="&lt;h1&gt;Pre-Requisites&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;LLLP to prepare course Catalogue&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="750" height="100" as="geometry" />
         </mxCell>
         <mxCell id="e0R2_u25rU9z0fg3Qo4R-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e0R2_u25rU9z0fg3Qo4R-4" target="e0R2_u25rU9z0fg3Qo4R-7">
           <mxGeometry relative="1" as="geometry" />
