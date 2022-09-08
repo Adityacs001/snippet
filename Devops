@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T09:26:49.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kRrz9Cp736OKghVe7f3X" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T09:27:48.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="LchxPHiIZiJaZX1YCKFU" version="20.2.8" type="github">
   <diagram id="VwMuO1t03e1O5Uwmn3Ue" name="Page-1">
     <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,6 +100,9 @@
         </mxCell>
         <mxCell id="_UFt04wt5mexKYB95DoF-38" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/preview/Web_Environment.svg;" vertex="1" parent="_UFt04wt5mexKYB95DoF-36">
           <mxGeometry x="5.630026809651475" y="6.6499999999999995" width="46.056" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_UFt04wt5mexKYB95DoF-50" value="HRA Azure Devops" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="213" y="30" width="460" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
