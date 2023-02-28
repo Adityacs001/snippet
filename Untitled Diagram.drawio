@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T17:33:54.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KpzxB9NWAIzPxrCsXvqv" version="20.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T17:43:36.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="G-K5SP5BJu8kUx73hATH" version="20.8.7" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="2284" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" parent="1" vertex="1">
-          <mxGeometry x="360" y="70" width="10" height="990" as="geometry" />
+          <mxGeometry x="360" y="70" width="10" height="770" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="135" width="220" height="85" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="350" y="508" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="590" width="220" height="85" as="geometry" />
+          <mxGeometry x="170" y="584" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-11" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="623" width="40" height="20" as="geometry" />
@@ -43,17 +43,8 @@
         <mxCell id="2a0f93b5c73ef8e7-13" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="350" y="738" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="830" width="220" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-15" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="863" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="945" width="220" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-17" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="350" y="978" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-18" value="&lt;h1&gt;Job Search&lt;/h1&gt;&lt;div&gt;&quot;Apply for job vacancy&quot; service&amp;nbsp; allow all TAMM site visitor to view jobs posted by company registered with HRA.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="220" y="139" width="160" height="77" as="geometry" />
@@ -64,17 +55,14 @@
         <mxCell id="2a0f93b5c73ef8e7-20" value="&lt;h1&gt;Registration and CV Building&lt;/h1&gt;&lt;div&gt;&quot;Jobseeker must complete his CV 100% + Assessment to be eligible to apply to jobs.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="220" y="364" width="160" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1&gt;Assessment&lt;/h1&gt;&lt;p&gt;HRA provides mandatory &quot;Assessment&quot; for customers in coordination with ADSG.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="479" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="220" y="594" width="160" height="77" as="geometry" />
+        <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;Career Coaching Appointment&lt;/h1&gt;&lt;p&gt;Persona 1 Jobseeker can book appointment with career coach thrii HRA&amp;nbsp; &quot;Mawaheb service&quot;&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="594" width="170" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;Application Tracking&lt;/h1&gt;&lt;div&gt;Application status can viewd in application summary page&amp;nbsp;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="709" width="160" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-24" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="220" y="834" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-25" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="950" width="160" height="77" as="geometry" />
@@ -83,10 +71,10 @@
           <mxGeometry x="318" y="10" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hUkit9o3KNrTcsrVfh8C-2" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="1060" width="95" height="60" as="geometry" />
+          <mxGeometry x="318" y="840" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hUkit9o3KNrTcsrVfh8C-25" value="Type of&amp;nbsp; Persona&lt;br&gt;&lt;b&gt;a) Persona 1 -&amp;nbsp; Unemployed UAE National&lt;br&gt;&lt;/b&gt;b) Persona 2 - Employed UAE National&lt;br&gt;c) Persona 3 - Unemployed Expats&lt;br&gt;d) Employed Expats&amp;nbsp;&lt;br&gt;&lt;br&gt;* Only (a) in bold is eligible for HRA service. All other will get &quot;In Eligible Error&quot; message. Customer Contract HRA Thrii provided form/contact details in error message with unemployment evidence to activate profile." style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="30" width="380" height="190" as="geometry" />
+        <mxCell id="hUkit9o3KNrTcsrVfh8C-25" value="Type of&amp;nbsp; Persona&lt;br&gt;&lt;b&gt;a) Persona 1 -&amp;nbsp; Unemployed UAE National&lt;br&gt;&lt;/b&gt;b) Persona 2 - Employed UAE National&lt;br&gt;c) Persona 3 - Unemployed Expats&lt;br&gt;d) Employed Expats&amp;nbsp;&lt;br&gt;&lt;br&gt;* Only (a) in bold is eligible for HRA service. All other will get &quot;In Eligible Error&quot; message. Customer Contract HRA Thrii provided form/contact details in error message with unemployment evidence to activate profile.&lt;br&gt;&lt;br&gt;* HRA uses integration with Pension / MOHRE / GPSSA to find employment status of jobseeker" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" width="380" height="220" as="geometry" />
         </mxCell>
         <mxCell id="hUkit9o3KNrTcsrVfh8C-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,6 +89,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="331" as="sourcePoint" />
             <mxPoint x="220" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hUkit9o3KNrTcsrVfh8C-31" value="HRA have integration with ADSG assessment service to provide CV assessment knows as - &quot;Thriving index assessment&quot; to measure CV/profile maturity and identify customer skill level and draw intervention plan to support his/her jobseeking.&lt;br&gt;&lt;br&gt;* Assessment is mandatory for jobseeker to complete to be allowed to apply to vacancy.&lt;br&gt;&lt;br&gt;* Its recommeded that customer use &quot;Web version&quot; of assesement page to do assessment. Prefered browsers are &quot;Chrome&quot; , &quot;Firefox&quot;, &quot;Edge&quot;. Mobile View have some issue in loading." style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="331" width="380" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hUkit9o3KNrTcsrVfh8C-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="475" as="sourcePoint" />
+            <mxPoint x="600" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hUkit9o3KNrTcsrVfh8C-33" value="Jobseeker must have completed CV and assessment to book appointment with career coach ." style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="550" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hUkit9o3KNrTcsrVfh8C-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=-0.044;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="600" as="sourcePoint" />
+            <mxPoint x="172.96000000000004" y="630.9839999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hUkit9o3KNrTcsrVfh8C-35" value="Job application status update is subject to &quot;Employer review&quot; and may have delay. HRA Backoffice follows up aggressively to update job application promptly." style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="693" width="380" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="hUkit9o3KNrTcsrVfh8C-36" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="766.5" as="sourcePoint" />
+            <mxPoint x="600" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
