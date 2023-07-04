@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T19:49:43.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dWoSDBKitKHVZSmmYHr_" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T20:02:54.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fqyPr0haOgk5xp60IqgI" version="21.5.2" type="github">
   <diagram name="Page-1" id="9B2FrqlO3O0PhIjn9zHE">
-    <mxGraphModel dx="2680" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2539" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,15 @@
         </mxCell>
         <mxCell id="-9dhcDxef-u13hbrz7UL-91" value="SMTP Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1078.5" y="1011" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9dhcDxef-u13hbrz7UL-93" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;" vertex="1" parent="1">
+          <mxGeometry x="282" y="616" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-9dhcDxef-u13hbrz7UL-94" value="External Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="745" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9dhcDxef-u13hbrz7UL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9dhcDxef-u13hbrz7UL-27" target="-9dhcDxef-u13hbrz7UL-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
