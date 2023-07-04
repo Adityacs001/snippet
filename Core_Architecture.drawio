@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T19:38:29.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l4YVQyGDJkMypV5194oB" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T19:46:20.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="--1VTmQmFmz9PZf3DJHn" version="21.5.2" type="github">
   <diagram name="Page-1" id="9B2FrqlO3O0PhIjn9zHE">
-    <mxGraphModel dx="1948" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2142" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="-9dhcDxef-u13hbrz7UL-34" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/management/content_management.svg;" vertex="1" parent="-9dhcDxef-u13hbrz7UL-23">
           <mxGeometry x="51" y="50" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9dhcDxef-u13hbrz7UL-35" value="Node Application - Directus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="-9dhcDxef-u13hbrz7UL-23">
+        <mxCell id="-9dhcDxef-u13hbrz7UL-35" value="Node Application&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="-9dhcDxef-u13hbrz7UL-23">
           <mxGeometry y="120" width="167" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-9dhcDxef-u13hbrz7UL-25" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="-9dhcDxef-u13hbrz7UL-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;API Gateway&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-9dhcDxef-u13hbrz7UL-26">
           <mxGeometry x="41" y="10" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-9dhcDxef-u13hbrz7UL-11" value="Asp .Netcore Webhost - Oceleto .Net" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-9dhcDxef-u13hbrz7UL-26">
+        <mxCell id="-9dhcDxef-u13hbrz7UL-11" value="Asp .Netcore Webhost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-9dhcDxef-u13hbrz7UL-26">
           <mxGeometry x="13" y="153" width="167" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-9dhcDxef-u13hbrz7UL-33" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -214,6 +214,18 @@
             <mxPoint x="480" y="228" as="sourcePoint" />
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-9dhcDxef-u13hbrz7UL-82" value="A . Scripting - HTMX / AlpineJS&lt;br&gt;B. CSS - Bootstrap" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="150" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="-9dhcDxef-u13hbrz7UL-83" value="Directus Headless CMS" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="710" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-9dhcDxef-u13hbrz7UL-84" value="Oceleto .Net" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="130" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="-9dhcDxef-u13hbrz7UL-85" value="Rabbit MQ" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="800" y="590" width="120" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
