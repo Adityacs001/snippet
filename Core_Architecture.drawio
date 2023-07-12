@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T08:31:17.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qe-Yr7xnS-okE-jR12-1" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T08:38:05.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BpJrZpTG7qgL_9t2hxBX" version="21.5.2" type="github">
   <diagram name="Page-1" id="9B2FrqlO3O0PhIjn9zHE">
     <mxGraphModel dx="2524" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -254,14 +254,47 @@
         <mxCell id="-9dhcDxef-u13hbrz7UL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-9dhcDxef-u13hbrz7UL-27" target="-9dhcDxef-u13hbrz7UL-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-1" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IIS&amp;nbsp;&lt;/b&gt;: 8.5&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="30" width="250" height="120" as="geometry" />
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-1" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IIS&amp;nbsp;&lt;/b&gt;: 8.5&amp;nbsp;&lt;br&gt;&lt;b&gt;.Net Core &lt;/b&gt;: 7.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-2" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&amp;nbsp;&lt;b&gt;IIS &lt;/b&gt;: 8.5&amp;nbsp;&lt;br&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.47;base=17;size=30;position=0.36;" vertex="1" parent="1">
-          <mxGeometry x="253" y="-80" width="247" height="130" as="geometry" />
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-2" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&amp;nbsp;&lt;b&gt;IIS &lt;/b&gt;: 8.5&amp;nbsp;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.47;base=17;size=30;position=0.36;" vertex="1" parent="1">
+          <mxGeometry x="253" y="-90" width="257" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fEtpnAOsyFXyuSgCwX6Y-3" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&lt;b&gt;Node JS &lt;/b&gt;: 18.16.1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;base=17;size=30;position=0.36;" vertex="1" parent="1">
           <mxGeometry x="790" y="-120" width="247" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-6" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&amp;nbsp;&lt;b&gt;IIS &lt;/b&gt;: 8.5&amp;nbsp;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;base=17;size=30;position=0.36;" vertex="1" parent="1">
+          <mxGeometry x="720" y="166" width="257" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-7" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&amp;nbsp;&lt;b&gt;IIS &lt;/b&gt;: 8.5&amp;nbsp;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;base=17;size=30;position=0.36;" vertex="1" parent="1">
+          <mxGeometry x="730" y="380" width="257" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-11" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;VM&amp;nbsp;&lt;/b&gt;: Windows Service 2019 ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Processor&amp;nbsp;&lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Memory&amp;nbsp;&lt;/b&gt;: 64GB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Disk&amp;nbsp;&lt;/b&gt;: 2 partition - 100GB System drive ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;150 GB application Drive&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IIS&amp;nbsp;&lt;/b&gt;: 8.5&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="820" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="fEtpnAOsyFXyuSgCwX6Y-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="870" as="sourcePoint" />
+            <mxPoint x="520" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="924" as="sourcePoint" />
+            <mxPoint x="520" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-15" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;base=17;size=30;position=0.36;" vertex="1" parent="1">
+          <mxGeometry x="940" y="580" width="257" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-17" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;VM&amp;nbsp;&lt;/b&gt;: Windows Service 2019 ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Processor&amp;nbsp;&lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Memory&amp;nbsp;&lt;/b&gt;: 64GB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Disk&amp;nbsp;&lt;/b&gt;: 2 partition - 100GB System drive ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;150 GB application Drive&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IIS&amp;nbsp;&lt;/b&gt;: 8.5&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="808" y="1100" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.387;exitY=0;exitDx=0;exitDy=0;entryX=0.428;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="fEtpnAOsyFXyuSgCwX6Y-17" target="-9dhcDxef-u13hbrz7UL-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="905" y="1100" as="sourcePoint" />
+            <mxPoint x="977" y="1049" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
