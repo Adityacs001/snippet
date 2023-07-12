@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T08:38:05.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BpJrZpTG7qgL_9t2hxBX" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T08:44:57.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dDq_GUFUytMhK5nZBZWm" version="21.5.2" type="github">
   <diagram name="Page-1" id="9B2FrqlO3O0PhIjn9zHE">
     <mxGraphModel dx="2524" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,7 +285,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fEtpnAOsyFXyuSgCwX6Y-15" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive&lt;br&gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;base=17;size=30;position=0.36;" vertex="1" parent="1">
-          <mxGeometry x="940" y="580" width="257" height="140" as="geometry" />
+          <mxGeometry x="920" y="580" width="257" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fEtpnAOsyFXyuSgCwX6Y-17" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;VM&amp;nbsp;&lt;/b&gt;: Windows Service 2019 ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Processor&amp;nbsp;&lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Memory&amp;nbsp;&lt;/b&gt;: 64GB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Disk&amp;nbsp;&lt;/b&gt;: 2 partition - 100GB System drive ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;150 GB application Drive&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IIS&amp;nbsp;&lt;/b&gt;: 8.5&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;.Net Core&amp;nbsp;&lt;/b&gt;: 7.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="808" y="1100" width="300" height="120" as="geometry" />
@@ -295,6 +295,24 @@
             <mxPoint x="905" y="1100" as="sourcePoint" />
             <mxPoint x="977" y="1049" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-20" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;VM&amp;nbsp;&lt;/b&gt;: Windows Service 2019 ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Processor&amp;nbsp;&lt;/b&gt;: 64 Bit , 8 CPU 2.40GHZ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Memory&amp;nbsp;&lt;/b&gt;: 64GB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Disk&amp;nbsp;&lt;/b&gt;: 2 partition - 100GB System drive ,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;150 GB application Drive&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;b&gt;SQL Server &lt;/b&gt;:&amp;nbsp;Microsoft SQL Server 2016 (SP2-GDR) (KB4583460) - 13.0.5108.50 (X64)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="150" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fEtpnAOsyFXyuSgCwX6Y-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="110" as="sourcePoint" />
+            <mxPoint x="1078.5" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.42;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.974;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-9dhcDxef-u13hbrz7UL-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890.001395516992" y="380.96" as="sourcePoint" />
+            <mxPoint x="1135.71" y="269.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-24" value="&lt;b&gt;VM &lt;/b&gt;: Centos 7 /Linux 3.10.0,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 4 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 32GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;:&amp;nbsp;&lt;br&gt;150 GB application Drive&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;Elastic : 8.0&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;base=17;size=30;position=0.36;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="670" width="257" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
