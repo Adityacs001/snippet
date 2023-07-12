@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T08:24:05.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PkquMZiRaISBl8n4ukgz" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T08:25:42.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F47QBtHCzjWe_aMRZhPS" version="21.5.2" type="github">
   <diagram name="Page-1" id="9B2FrqlO3O0PhIjn9zHE">
     <mxGraphModel dx="2524" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -254,10 +254,10 @@
         <mxCell id="-9dhcDxef-u13hbrz7UL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-9dhcDxef-u13hbrz7UL-27" target="-9dhcDxef-u13hbrz7UL-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-1" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-1" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="30" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-2" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.47;base=17;size=30;position=0.36;" vertex="1" parent="1">
+        <mxCell id="fEtpnAOsyFXyuSgCwX6Y-2" value="&lt;b&gt;VM &lt;/b&gt;: Windows Service 2019 ,&lt;br&gt;&lt;b&gt;Processor &lt;/b&gt;: 64 Bit , 8 CPU 2.20GHZ&lt;br&gt;&lt;b&gt;Memory &lt;/b&gt;: 64GB&lt;br&gt;&lt;b&gt;Disk &lt;/b&gt;: 2 partition - 100GB System drive , &lt;br&gt;150 GB application Drive" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.47;base=17;size=30;position=0.36;" vertex="1" parent="1">
           <mxGeometry x="253" y="-80" width="247" height="130" as="geometry" />
         </mxCell>
       </root>
