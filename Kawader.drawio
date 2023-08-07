@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T15:16:00.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="DmWPFxoR-TD0tvJ0Y90T" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T15:55:15.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UplpCWDI4vVCBtkufIpr" version="21.6.6" type="github">
   <diagram name="Page-1" id="R57Mb9-A6zRh2QvA6tmR">
-    <mxGraphModel>
+    <mxGraphModel dx="1292" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-1" value="Kawader Request Flow" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="1010" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-2" value="HR Requestor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-1">
+          <mxGeometry y="20" width="1010" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Submit Request by Filling in required Form (Profile / Request)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-2">
+          <mxGeometry x="210" y="34" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-1c5CnPWfBLFlBKGgeY-2" source="n-1c5CnPWfBLFlBKGgeY-31" target="n-1c5CnPWfBLFlBKGgeY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Request approval notification received to reflect in ERP (DOF) / Entity ERP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-2">
+          <mxGeometry x="610" y="30" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-32" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-2">
+          <mxGeometry x="900" y="30" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-1c5CnPWfBLFlBKGgeY-2" source="n-1c5CnPWfBLFlBKGgeY-33" target="n-1c5CnPWfBLFlBKGgeY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-33" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-2">
+          <mxGeometry x="40" y="33" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-3" value="External HR approver" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-1">
+          <mxGeometry y="140" width="1010" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Verify Request Completness and Sends for HRA - GASO Team approval&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-3">
+          <mxGeometry x="360" y="40" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-4" value="HRA GASO Team approval" style="swimlane;html=1;startSize=20;horizontal=0;align=center;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-1">
+          <mxGeometry y="290" width="1010" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-10" value="If Request &lt;br&gt;need Assessment ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-4">
+          <mxGeometry x="110" y="50" width="157" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-19" value="If Request &lt;br&gt;need HR DG Approval?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-4">
+          <mxGeometry x="321.5" y="50" width="157" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-20" value="If Request &lt;br&gt;need Executive Committee Approval?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-4">
+          <mxGeometry x="526" y="48" width="157" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-21" value="If Request &lt;br&gt;need ADEO Approval?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-4">
+          <mxGeometry x="772" y="48" width="157" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-1c5CnPWfBLFlBKGgeY-1" source="n-1c5CnPWfBLFlBKGgeY-22" target="n-1c5CnPWfBLFlBKGgeY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-1c5CnPWfBLFlBKGgeY-1" source="n-1c5CnPWfBLFlBKGgeY-23" target="n-1c5CnPWfBLFlBKGgeY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-9" value="HRA DG Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="1010" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;If request &lt;br&gt;approved ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-9">
+          <mxGeometry x="321.5" y="17.5" width="150" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-16" value="ADEO Approval" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1100" width="1010" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;If request &lt;br&gt;approved ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-16">
+          <mxGeometry x="720" y="20" width="150" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-12" value="ADSG Assessment" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="1010" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;If Assessment &lt;br&gt;passed?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-12">
+          <mxGeometry x="350" y="12.5" width="150" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Assessment Evaluation done by ADSG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-12">
+          <mxGeometry x="80" y="40" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-17" value="Executive Committee" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="970" width="1010" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;If request &lt;br&gt;approved ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n-1c5CnPWfBLFlBKGgeY-17">
+          <mxGeometry x="540" y="7.5" width="150" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="n-1c5CnPWfBLFlBKGgeY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-1c5CnPWfBLFlBKGgeY-10" target="n-1c5CnPWfBLFlBKGgeY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
