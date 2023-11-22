@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T06:58:53.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="V6zCdN6-7YlsDiL8VFrS" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T07:01:34.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-rnBHe3FZcWJEP8L95R6" version="22.1.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="vBOB6mBzM3e_tGqEHoJc-2" value="Oracle DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="240" y="20.5" width="50" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="vBOB6mBzM3e_tGqEHoJc-1" value="Edge&amp;nbsp;&lt;br&gt;Connector" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+        <mxCell id="vBOB6mBzM3e_tGqEHoJc-1" value="Edge&amp;nbsp;&lt;br&gt;Connector&lt;br&gt;(G42)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="330" y="31.5" width="80" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="G42 Tenant" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
