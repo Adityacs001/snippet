@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T13:55:57.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2eOHXpa5BVb_Bp5bQLCj" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T13:58:28.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QmKQOcUuDaNg_lLT9IC8" version="22.1.5" type="github">
   <diagram name="Page-1" id="VKI1EWOp4GRQE5fsBFgJ">
     <mxGraphModel dx="1098" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="avenbUe7RMg-Z7uaUahu-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="357" y="270" width="68" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="avenbUe7RMg-Z7uaUahu-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/security.svg;" vertex="1" parent="1">
-          <mxGeometry x="730" y="560" width="31.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="avenbUe7RMg-Z7uaUahu-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="avenbUe7RMg-Z7uaUahu-6" target="avenbUe7RMg-Z7uaUahu-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,17 +52,32 @@
             <mxPoint x="490" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avenbUe7RMg-Z7uaUahu-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="avenbUe7RMg-Z7uaUahu-5" target="avenbUe7RMg-Z7uaUahu-8">
+        <mxCell id="avenbUe7RMg-Z7uaUahu-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="avenbUe7RMg-Z7uaUahu-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="510" as="sourcePoint" />
-            <mxPoint x="490" y="460" as="targetPoint" />
+            <mxPoint x="730" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avenbUe7RMg-Z7uaUahu-23" value="Oracle Form for ADGE who are on ERP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="avenbUe7RMg-Z7uaUahu-23" value="Oracle Form for ADGE who are on ERP to submit request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="80" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="avenbUe7RMg-Z7uaUahu-24" value="Web Form for ADGC not on ERP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="avenbUe7RMg-Z7uaUahu-24" value="Web Form for ADGC not on ERP to submit request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="428" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avenbUe7RMg-Z7uaUahu-28" value="APIs to connect Forms to Oracle DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avenbUe7RMg-Z7uaUahu-29" value="ADERP Oracle Application / DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="428" y="430" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avenbUe7RMg-Z7uaUahu-31" value="ADConnect API Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="571" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avenbUe7RMg-Z7uaUahu-32" value="FEDNET API Gateway for DMOI API access" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="615" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avenbUe7RMg-Z7uaUahu-33" value="Tarasol DMOI system to approve/reject request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665.75" y="527" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
