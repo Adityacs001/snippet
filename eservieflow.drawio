@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T07:19:04.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EpaAgcTjp2jzeHi0pecP" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T07:19:23.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XHDl7o72RKhzH3INV5Zn" version="23.0.2" type="github">
   <diagram name="Page-1" id="m3JJQ44KRjg1wA6EPXdw">
     <mxGraphModel dx="1752" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="1rh2TZPiEFTCJC9huodM-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="526.5" y="282" width="76.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="1rh2TZPiEFTCJC9huodM-4" value="portal.hra.gov.ae" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="536.05" y="232" width="60" height="30" as="geometry" />
+        <mxCell id="1rh2TZPiEFTCJC9huodM-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;portal.hra.gov.ae&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="252" width="96.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1rh2TZPiEFTCJC9huodM-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="536.05" y="462" width="57.4" height="70" as="geometry" />
