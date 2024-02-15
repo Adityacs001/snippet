@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T06:54:58.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="H6WpmsMWxHqKoVfQxh5V" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T06:56:18.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="62XLkYjhM3eh1UFqXy8D" version="23.1.2" type="github">
   <diagram name="Page-1" id="zfi_z39KRMZiAdqfa__p">
     <mxGraphModel dx="1098" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="170" y="200" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="br7aP03rx6v40O2pfSzx-13" value="SRS / Use Cases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="120" width="130" height="30" as="geometry" />
+          <mxGeometry x="490" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="br7aP03rx6v40O2pfSzx-15" value="Task and Issues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="330" width="130" height="30" as="geometry" />
+          <mxGeometry x="670" y="340.7" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="br7aP03rx6v40O2pfSzx-17" value="QA / Security Assessment /UAT /Deployment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="200" height="30" as="geometry" />
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="br7aP03rx6v40O2pfSzx-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="435" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="br7aP03rx6v40O2pfSzx-27" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="516.75" y="90" width="26.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="br7aP03rx6v40O2pfSzx-28" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="219.57" y="240" width="26.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="br7aP03rx6v40O2pfSzx-29" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="710" y="280" width="26.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="br7aP03rx6v40O2pfSzx-31" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="490" y="500" width="26.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="br7aP03rx6v40O2pfSzx-32" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="26.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
