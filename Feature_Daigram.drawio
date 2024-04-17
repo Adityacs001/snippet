@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T14:39:31.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="it2B4BJbysPzSIve9Js5" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T14:40:45.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="HSt90VaGV6kwroYtTCTD" version="24.2.5" type="github">
   <diagram name="Page-1" id="b13H_3sS8UQXDrq0NdWF">
     <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="gg7koDfm8abSmysJdb-q-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gg7koDfm8abSmysJdb-q-50" source="gg7koDfm8abSmysJdb-q-54" target="gg7koDfm8abSmysJdb-q-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gg7koDfm8abSmysJdb-q-54" value="Login / Signup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-50">
+        <mxCell id="gg7koDfm8abSmysJdb-q-54" value="Login /&amp;nbsp;&lt;div&gt;Signup&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-50">
           <mxGeometry x="229" y="60" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-55" value="Hub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-50">
@@ -110,9 +110,9 @@
           <mxGeometry y="5" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-64" value="Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-62">
-          <mxGeometry x="12" y="147.6" width="58" height="30.857142857142854" as="geometry" />
+          <mxGeometry x="7" y="147.6" width="58" height="30.857142857142854" as="geometry" />
         </mxCell>
-        <mxCell id="gg7koDfm8abSmysJdb-q-65" value="Hub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-62">
+        <mxCell id="gg7koDfm8abSmysJdb-q-65" value="Shop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-62">
           <mxGeometry x="74" y="147.0857142857143" width="46" height="30.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-66" value="Discover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-62">
