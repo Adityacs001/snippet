@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T14:33:20.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="RwH-hgzRjqBqGMZy7geD" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T14:34:11.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="J8Kxog8VNVfoqteaGK68" version="24.2.5" type="github">
   <diagram name="Page-1" id="b13H_3sS8UQXDrq0NdWF">
     <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,19 +57,19 @@
           <mxGeometry width="240" height="350" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-12" value="Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
-          <mxGeometry x="40" y="290" width="70" height="60" as="geometry" />
+          <mxGeometry x="12" y="287" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-13" value="Hub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
-          <mxGeometry x="110" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="74" y="286" width="46" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-14" value="Discover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
-          <mxGeometry x="170" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="125" y="290" width="55" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-15" value="Profile&lt;div&gt;(With Switch other Role)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
           <mxGeometry x="140" y="10" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-16" value="Call/&lt;div&gt;Chat&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
-          <mxGeometry y="290" width="40" height="60" as="geometry" />
+          <mxGeometry x="185" y="290" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-21" value="Profile&lt;div&gt;(With Switch other Role)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gg7koDfm8abSmysJdb-q-20">
           <mxGeometry x="660" y="610" width="90" height="90" as="geometry" />
