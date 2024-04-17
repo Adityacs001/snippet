@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T15:33:53.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="aLreHqUpNEGLRplvkk1z" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T15:34:18.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="9QjU_xeT6aywDueBUlmA" version="24.2.5" type="github">
   <diagram name="Page-1" id="b13H_3sS8UQXDrq0NdWF">
     <mxGraphModel dx="1584" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="gg7koDfm8abSmysJdb-q-15" value="Profile&lt;div&gt;(With Switch other Role)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
           <mxGeometry x="150" y="11" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="gg7koDfm8abSmysJdb-q-16" value="Call/&lt;div&gt;Chat&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
+        <mxCell id="gg7koDfm8abSmysJdb-q-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Chat&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-18">
           <mxGeometry x="185" y="149.14285714285714" width="40" height="30.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-49" value="" style="group" vertex="1" connectable="0" parent="gg7koDfm8abSmysJdb-q-20">
@@ -58,7 +58,7 @@
         <mxCell id="gg7koDfm8abSmysJdb-q-22" value="Profile&lt;div&gt;(With Switch other Role)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gg7koDfm8abSmysJdb-q-49">
           <mxGeometry x="111" y="302" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gg7koDfm8abSmysJdb-q-47" value="Call / Chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-49">
+        <mxCell id="gg7koDfm8abSmysJdb-q-47" value="Chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-49">
           <mxGeometry x="490" y="299.5" width="190" height="350" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-48" value="Profile&lt;div&gt;(With Switch other Role)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gg7koDfm8abSmysJdb-q-49">
