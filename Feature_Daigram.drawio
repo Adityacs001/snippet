@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T14:15:54.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.5" etag="zgX8Mp4YKyoJlOzfzDHS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T14:22:07.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="G0QwWpL_0pJkeK9zAieI" version="24.2.5" type="github">
   <diagram name="Page-1" id="b13H_3sS8UQXDrq0NdWF">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gg7koDfm8abSmysJdb-q-1" value="Introduction Screens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gg7koDfm8abSmysJdb-q-2" value="Login / Signup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gg7koDfm8abSmysJdb-q-3" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gg7koDfm8abSmysJdb-q-4" value="Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gg7koDfm8abSmysJdb-q-5" value="Hub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gg7koDfm8abSmysJdb-q-6" value="Discover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="480" width="190" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
