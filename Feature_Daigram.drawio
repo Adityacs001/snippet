@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T15:51:27.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="JKt5aMAJwb1N08SxQkBP" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T15:51:54.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="QegtUpWdYrnBQy_tSOTj" version="24.2.5" type="github">
   <diagram name="Page-1" id="b13H_3sS8UQXDrq0NdWF">
     <mxGraphModel dx="1783" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-48" value="Profile&lt;div&gt;(With Switch other Role)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gg7koDfm8abSmysJdb-q-49">
           <mxGeometry x="580" y="309" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gg7koDfm8abSmysJdb-q-82" value="&quot;Become a Creator&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-49">
+          <mxGeometry x="510" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gg7koDfm8abSmysJdb-q-56" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gg7koDfm8abSmysJdb-q-20">
           <mxGeometry x="420" y="1443" width="190" height="350" as="geometry" />
