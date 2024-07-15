@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T05:54:26.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fZ2eZXdiXvJ7va0Lqn1h" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T05:54:40.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ze6KHNKBoxoVCWogQ1dC" version="24.6.3" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="1793" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="450" y="40" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-2" value="Workforce Management" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="660" y="395" width="160" height="160" as="geometry" />
+          <mxGeometry x="676" y="395" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-3" value="Talent Management" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="670" y="180" width="160" height="160" as="geometry" />
+          <mxGeometry x="669" y="181" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-4" value="Reporting and Analytics" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="230" y="410" width="160" height="160" as="geometry" />
