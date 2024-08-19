@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-19T08:12:23.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="154K7NBbfzUd4McZvUv8" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-19T08:13:52.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="G3X24j8vRQRzXd2iGXGa" version="24.6.5" type="github">
   <diagram name="Page-1" id="IUKlHQsD9xBBCIS57lRR">
     <mxGraphModel dx="1434" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         <mxCell id="HdGtEfoyafBYh0TFKtQ1-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="HdGtEfoyafBYh0TFKtQ1-22">
           <mxGeometry x="60" y="11.75" width="45" height="41.54" as="geometry" />
         </mxCell>
+        <mxCell id="HdGtEfoyafBYh0TFKtQ1-51" value="GovTalent G2G API Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HdGtEfoyafBYh0TFKtQ1-22">
+          <mxGeometry x="-2" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="HdGtEfoyafBYh0TFKtQ1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HdGtEfoyafBYh0TFKtQ1-39" target="HdGtEfoyafBYh0TFKtQ1-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -107,6 +110,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HdGtEfoyafBYh0TFKtQ1-50" value="ADConnect" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HdGtEfoyafBYh0TFKtQ1-52" value="GovTalent External Application API Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="257" width="148" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
