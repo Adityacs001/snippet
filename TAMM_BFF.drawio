@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-19T08:13:52.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="G3X24j8vRQRzXd2iGXGa" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-19T08:24:48.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="BwXpfJHFdQIntK8cD14F" version="24.6.5" type="github">
   <diagram name="Page-1" id="IUKlHQsD9xBBCIS57lRR">
     <mxGraphModel dx="1434" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="HdGtEfoyafBYh0TFKtQ1-51" value="GovTalent G2G API Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HdGtEfoyafBYh0TFKtQ1-22">
           <mxGeometry x="-2" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HdGtEfoyafBYh0TFKtQ1-53" value="Max 360 CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HdGtEfoyafBYh0TFKtQ1-22">
+          <mxGeometry x="274.34" y="191.7" width="85.66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HdGtEfoyafBYh0TFKtQ1-54" value="GovTalent Backend (BFF)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HdGtEfoyafBYh0TFKtQ1-22">
+          <mxGeometry x="240" y="132" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HdGtEfoyafBYh0TFKtQ1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HdGtEfoyafBYh0TFKtQ1-39" target="HdGtEfoyafBYh0TFKtQ1-12">
           <mxGeometry relative="1" as="geometry" />
