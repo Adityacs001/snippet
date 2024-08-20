@@ -76,8 +76,8 @@
         <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-33" value="Web Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="94.5" y="352.7" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-34" value="Web BFF - Backend for Frontend Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="196" y="353.4" width="170" height="30" as="geometry" />
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-34" value="Telegram BFF - Backend for Telegram bot Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-35" value="Mobile BFF - Backend for Frontend Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="196" y="140" width="170" height="30" as="geometry" />
@@ -108,6 +108,24 @@
         </mxCell>
         <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Buzzmi Application Interaction Diagram&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="183.5" y="30" width="486.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiHo0pm3M2-PBp_HJ0Y8-45" target="aiHo0pm3M2-PBp_HJ0Y8-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-45" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="18" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-46" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="438" width="60" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aiHo0pm3M2-PBp_HJ0Y8-46" target="aiHo0pm3M2-PBp_HJ0Y8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-48" value="Telegram Bot client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="96" y="500" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-49" value="Web BFF - Backend for Frontend Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206" y="363.4" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
