@@ -34,7 +34,7 @@
         <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiHo0pm3M2-PBp_HJ0Y8-16" target="aiHo0pm3M2-PBp_HJ0Y8-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiHo0pm3M2-PBp_HJ0Y8-16" target="aiHo0pm3M2-PBp_HJ0Y8-22">
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiHo0pm3M2-PBp_HJ0Y8-42" target="aiHo0pm3M2-PBp_HJ0Y8-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiHo0pm3M2-PBp_HJ0Y8-16" target="aiHo0pm3M2-PBp_HJ0Y8-23">
@@ -81,6 +81,30 @@
         </mxCell>
         <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-35" value="Mobile BFF - Backend for Frontend Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="196" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-36" value="Microservice 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="402.4" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-37" value="Microservice &quot;N&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="74" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-38" value="Microservice 1.&amp;nbsp;&lt;div&gt;Ex - Logging&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="72" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-39" value="Microservice 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="402.4" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-41" value="Postgres DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="232" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiHo0pm3M2-PBp_HJ0Y8-16" target="aiHo0pm3M2-PBp_HJ0Y8-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="277" as="sourcePoint" />
+            <mxPoint x="460" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-42" value="Core Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="278" width="84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
