@@ -70,6 +70,18 @@
         <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-29" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;" vertex="1" parent="1">
           <mxGeometry x="530" y="101" width="48" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-32" value="Mobile Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="97" y="220" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-33" value="Web Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="94.5" y="352.7" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-34" value="Web BFF - Backend for Frontend Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="196" y="353.4" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiHo0pm3M2-PBp_HJ0Y8-35" value="Mobile BFF - Backend for Frontend Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="196" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
